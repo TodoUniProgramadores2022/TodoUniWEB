@@ -4,8 +4,8 @@
     color: #333;
     font-size: 1rem;
     line-height: 1.6em;
-    margin: 0%;
-    padding:10%;
+    margin: 0;
+    padding:0;
 }
 
 h1{
@@ -88,7 +88,7 @@ p{
         }
 
 .main{
-    padding-top: 1px;
+    padding-top: 120px;
 }
 
 
