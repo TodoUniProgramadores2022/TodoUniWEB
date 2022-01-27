@@ -1,11 +1,12 @@
 ﻿body {
-    font-family: giorgia, times, serif;
+    
     background-color: #f2f2f2;
     color: #333;
     font-size: 1rem;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     line-height: 1.6em;
     margin: 0;
-    padding:0;
+    padding:1%;
 }
 
 h1{
@@ -23,15 +24,24 @@ p{
     margin: 0 auto;
 }
 
-.header{
-    background:#f2f2f2;
-    color:#333;
-    padding 2rem 0;
+.orientacion-a {
+    padding:2rem 160px;
+    margin: 1rem 1px;   
+}
+    .orientacion-b {
+        padding: 2rem 160px;
+        margin: 1rem 1px;
+    }
 
-    position:fixed;
-    left:0;
-    top:0;
-    width:100%;
+.header {
+    background: #f2f2f2;
+    color: #333;
+    padding 2rem 0;
+    position: fixed;
+    left: 0;
+    top: 0;
+    right: 0;
+    width: 100%;
 }
 
 .header a{
@@ -44,6 +54,7 @@ p{
     justify-content: space-between;
     align-items:center;
     flex-wrap:wrap;
+
 }
 
 .menu-icon{
@@ -72,17 +83,19 @@ p{
 
 .footer{
     background-color:#f2f2f2;
-    padding:4rem 0;
+    padding: 9rem 0;
     text-align:center;
+    font-size:0.6rem;
 
 }
 
     .footer .Copy {
         background-color: #464646;
+        font-size: 2em;
         padding: 5px 10px;
         text-align: center;
         color: #fff;
-        margin:20px;
+        margin: 30px auto;
     }
         .footer .Copy small {
             font-size: 0.8em;
