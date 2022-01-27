@@ -1,12 +1,11 @@
 ﻿body {
-    
-    background-color: #f2f2f2;
-    color: #333;
+    background-color: #D8FFFF;
+    color: #F0F8FF;
     font-size: 1rem;
-    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Lucida Console';
     line-height: 1.6em;
     margin: 0;
-    padding:1%;
+    padding: 1%;
 }
 
 h1{
@@ -34,9 +33,9 @@ p{
     }
 
 .header {
-    background: #f2f2f2;
+    background: #F0F8FF;
     color: #333;
-    padding 2rem 0;
+    padding: 2rem 0;
     position: fixed;
     left: 0;
     top: 0;
@@ -48,6 +47,7 @@ p{
     color: #333;
     text-decoration:none;
 }
+
 
 .logo-nav-container{
     display: flex;
@@ -81,12 +81,11 @@ p{
                 color: #3485e9;
             }
 
-.footer{
-    background-color:#f2f2f2;
+.footer {
+    background-color: #F0F8FF;
     padding: 9rem 0;
-    text-align:center;
-    font-size:0.6rem;
-
+    text-align: center;
+    font-size: 0.6rem;
 }
 
     .footer .Copy {
