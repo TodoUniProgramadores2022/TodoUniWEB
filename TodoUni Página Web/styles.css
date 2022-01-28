@@ -1,6 +1,6 @@
-﻿body {
-    background-color: #D8FFFF;
-    color: #F0F8FF;
+body {
+    background-color: #e4e4e4;
+    color: #f1f1f1;
     font-size: 1rem;
     font-family: 'Lucida Console';
     line-height: 1.6em;
@@ -11,6 +11,7 @@
 h1{
     font-size:2em;
     line-height: 1.1em;
+    color: #000000;
 }
 
 p{
@@ -23,6 +24,13 @@ p{
     margin: 0 auto;
 }
 
+.container-banner{
+    width: 100%;
+    max-width: 100%;
+    margin: 0 auto;
+    padding-top: 3rem;
+}
+
 .orientacion-a {
     padding:2rem 160px;
     margin: 1rem 1px;   
@@ -33,7 +41,7 @@ p{
     }
 
 .header {
-    background: #F0F8FF;
+    background: #e4e4e4e3;
     color: #333;
     padding: 2rem 0;
     position: fixed;
@@ -54,7 +62,7 @@ p{
     justify-content: space-between;
     align-items:center;
     flex-wrap:wrap;
-
+    
 }
 
 .menu-icon{
@@ -82,8 +90,8 @@ p{
             }
 
 .footer {
-    background-color: #F0F8FF;
-    padding: 9rem 0;
+    background-color: #e4e4e4;
+    padding: 9rem 0 0;
     text-align: center;
     font-size: 0.6rem;
 }
@@ -94,7 +102,7 @@ p{
         padding: 5px 10px;
         text-align: center;
         color: #fff;
-        margin: 30px auto;
+        margin: 0 auto;
     }
         .footer .Copy small {
             font-size: 0.8em;
@@ -142,4 +150,3 @@ p{
                 }
 
 }
-    
