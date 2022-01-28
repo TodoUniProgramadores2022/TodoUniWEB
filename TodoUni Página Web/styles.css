@@ -1,8 +1,8 @@
 /* Comentario de prueba */
 
 body {
-    background-color: #D8FFFF;
-    color: #F0F8FF;
+    background-color: #ffffff;
+    color: #ffffff;
     font-size: 1rem;
     font-family: 'Lucida Console';
     line-height: 1.6em;
@@ -43,7 +43,7 @@ p{
     }
 
 .header {
-    background: #F0F8FF;
+    background: #ffffff;
     color: #333;
     padding: 2rem 0;
     position: fixed;
@@ -92,7 +92,7 @@ p{
             }
 
 .footer {
-    background-color: #F0F8FF;
+    background-color: #ffffff;
     padding: 9rem 0;
     text-align: center;
     font-size: 0.6rem;
