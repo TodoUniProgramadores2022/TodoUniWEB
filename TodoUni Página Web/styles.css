@@ -1,6 +1,6 @@
 ﻿body {
-    background-color: #D8FFFF;
-    color: #F0F8FF;
+    background-color: #fff;
+    color: #fff;
     font-size: 1rem;
     font-family: 'Lucida Console';
     line-height: 1.6em;
@@ -33,7 +33,7 @@ p{
     }
 
 .header {
-    background: #F0F8FF;
+    background: #fff;
     color: #333;
     padding: 2rem 0;
     position: fixed;
