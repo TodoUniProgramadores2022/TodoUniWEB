@@ -33,13 +33,91 @@ p{
     padding-top: 3rem;
 }
 
+
 .orientacion-a {
-    padding:2rem 160px;
-    margin: 1rem 1px;   
+    padding: 1rem 16px;
+    margin: 1rem 1px;
 }
-    .orientacion-b {
-        padding: 2rem 160px;
-        margin: 1rem 1px;
+
+.orientacion-a figure{
+    position:relative;
+    height:75px;
+    width:290px;
+    overflow:hidden;
+    border-radius:10px;
+    float:left;
+   
+}
+
+.orientacion-a figure .capa{
+    color:#ffffff;
+    position:absolute;
+    top:0;
+    width:100%;
+    height:100%;
+    background: rgba(35,135,138,0.9);
+    transition: all 500ms ease-out;
+    opacity:0;
+    visibility:hidden;
+    text-align: center; 
+    cursor:pointer; 
+}
+
+.orientacion-a figure:hover > .capa{
+    opacity:1;
+    visibility:visible;
+}
+
+    .orientacion-a figure:hover > .capa  h3{
+        margin-top:19px;
+        margin-bottom:2px;
+    }
+
+
+
+.orientacion-b {
+    padding: 1rem 16px;
+    margin: 1rem 1px;
+    padding:6.5em;
+}
+
+.orientacion-b figure {
+  position: relative;
+  height: 75px;
+  width: 290px;
+  overflow: hidden;
+  border-radius: 10px;
+  float: left;
+}
+
+
+.orientacion-b figure .capa2 {
+   color: #ffffff;
+   position: absolute;
+   top: 0;
+   width: 100%;
+   height: 100%;
+   background: rgba(87,138,133,0.9);
+   transition: all 500ms ease-out;
+   opacity: 0;
+   visibility: hidden;
+   text-align: center;
+   cursor: pointer;
+}
+
+.orientacion-b figure:hover > .capa2 {
+   opacity: 1;
+   visibility: visible;
+}
+
+.orientacion-b figure:hover > .capa2 h3 {
+    margin-top: 19px;
+    margin-bottom: 2px;
+}
+
+    .orientacion-b figure:hover > img {
+        transition: all 500ms ease-out;
+        transform: scale(1.1);
     }
 
 .header {
@@ -93,7 +171,6 @@ p{
 
 .footer {
     background-color: #ffffff;
-    padding: 9rem 0;
     text-align: center;
     font-size: 0.6rem;
 }
