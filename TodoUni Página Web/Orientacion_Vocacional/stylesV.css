@@ -199,17 +199,57 @@ p{
     left:70px;
     float:left;
 }
-.icon2 {
-    position: absolute;
-    top: 70px;
-    left: 310px;
-    float:left;
-}
-.icon3 {
-    position: absolute;
-    top: 70px;
-    left: 550px;
-}
+        .icon2 {
+            position: absolute;
+            top: 70px;
+            left: 310px;
+            float:left;
+        }
+            .icon3 {
+                position: absolute;
+                top: 70px;
+                left: 550px;
+            }
+
+                .icon4 {
+                    position: absolute;
+                    top: 300px;
+                    left: 70px;
+                    float: left;
+                }
+
+                    .icon5 {
+                        position: absolute;
+                        top: 300px;
+                        left: 310px;
+                        float: left;
+                    }
+
+                        .icon6 {
+                            position: absolute;
+                            top: 300px;
+                            left: 550px;
+                        }
+
+                            .icon7 {
+                                position: absolute;
+                                top: 550px;
+                                left: 70px;
+                                float: left;
+                            }
+
+                                .icon8 {
+                                    position: absolute;
+                                    top: 550px;
+                                    left: 310px;
+                                    float: left;
+                                }
+
+                                .icon9 {
+                                    position: absolute;
+                                    top: 550px;
+                                    left: 550px;
+                                }
 
 .Orientacion{
     position:relative;
