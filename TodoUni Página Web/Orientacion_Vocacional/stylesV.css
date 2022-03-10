@@ -193,6 +193,24 @@ p{
     width:797px;
 }
 
+.icon1{
+    position:absolute;
+    top:70px;
+    left:70px;
+    float:left;
+}
+.icon2 {
+    position: absolute;
+    top: 70px;
+    left: 310px;
+    float:left;
+}
+.icon3 {
+    position: absolute;
+    top: 70px;
+    left: 550px;
+}
+
 .Orientacion{
     position:relative;
     text-align:left;
