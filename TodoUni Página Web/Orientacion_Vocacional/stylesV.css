@@ -78,7 +78,7 @@ p{
             }
 
 
-
+/* footer */
 .footer {
     background-color: #ffffff;
     text-align: center;
@@ -88,9 +88,13 @@ p{
 }
 
 .REDES{
-    margin:6rem 0;
+    margin:1rem 0;
 }
-
+    .linea{
+        position:relative;
+        top:90px;
+        left:20px;
+    }
 
 .contenedorimagen {
     position: relative;
@@ -186,11 +190,15 @@ p{
             font-size: 0.8em;
         }
 
+/* footer */
+
+/* Main */
 .fondomain{
     position:relative;
     left:340px;
     height:797px;
     width:797px;
+    top:50px;
 }
 
 .icon1{
@@ -257,13 +265,15 @@ p{
     color:white;
     padding:2rem 0;
 }
-.text {
-    position:absolute;
-    top:100px;
-    left: 250px;
-    font-size:35px;
-    transform: translate(-50%, -50%);
-}
+    .text {
+        position:absolute;
+        top:100px;
+        left: 250px;
+        font-size:35px;
+        transform: translate(-50%, -50%);
+    }
+
+/* Main */
 
 @media only screen and (max-width: 690px){
 
