@@ -262,7 +262,12 @@ p{
   .u-section-1 .u-text-1 {
     font-weight: 700;
     font-size: 1.25rem;
-    margin: -271px 380 0 456px;
+    font-weight: 700;
+    font-size: 1.25rem;
+    margin-top: -275px;
+    margin-right: 380px;
+    margin-left: 456px;
+}
   }
   
   .u-section-1 .u-image-4 {
