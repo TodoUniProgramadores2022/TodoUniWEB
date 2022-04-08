@@ -1,6 +1,6 @@
 body {
     background-color: #ffffff;
-    color: #000;
+    color: #000000;
     font-size: 1rem;
     font-family: 'Lucida Console';
     line-height: 1.6em;
@@ -262,7 +262,7 @@ p{
   .u-section-1 .u-text-1 {
     font-weight: 700;
     font-size: 1.25rem;
-    margin: -271px 212px 0 456px;
+    margin: -271px 240px 0 456px;
   }
   
   .u-section-1 .u-image-4 {
