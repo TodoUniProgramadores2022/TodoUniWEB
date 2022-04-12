@@ -264,6 +264,11 @@ p{
     margin: 1rem 0;
 }
 
+.Redesicons {
+    margin: 1em 0;
+    padding: 1em 0;
+}
+
 .linea {
     position: relative;
     top: 90px;
@@ -275,6 +280,7 @@ p{
     position: relative;
     display: inline-block;
     text-align: right;
+    bottom: -15px;
 }
 
 .texto1 {
