@@ -107,6 +107,36 @@ p{
         transform: translate(-50%, -50%);
     }
 
+
+    .zorro {
+        position: relative;
+        left: 200px;
+        top: 100px;
+        float:left;
+       
+    }
+
+        .botones {
+            position:relative;
+            margin-top:350px;
+            margin-left:150px;
+            
+        }
+            
+            .burbuja {
+                position:absolute;
+                right:400px;
+                top:610px;
+            }
+                .bt{
+                    position:absolute;
+                    font-size:35px;
+                    color:#333;
+                    font-weight:bolder;
+                    bottom:30px;
+                    left:475px;
+                }
+
 /* Main */
 
 /* footer */
