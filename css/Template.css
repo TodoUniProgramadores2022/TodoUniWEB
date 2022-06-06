@@ -3,9 +3,9 @@
 }
 
 .u-section-1 .u-image-1 {
-    width: 804px;
-    height: 232px;
-    margin: 50px auto 0 0;
+  width: 804px;
+  height: 232px;
+  margin: 50px auto 0 0;
 }
 
 .u-section-1 .u-group-1 {
@@ -3113,7 +3113,7 @@
 .u-section-9 .u-image-3 {
   width: 70px;
   height: 70px;
-  background-image: url("images/Like-33.png");
+  background-image: url("images/Like-26.png");
   background-position: 50% 50%;
   margin: -154px auto 0 647px;
 }
@@ -6727,7 +6727,6 @@
   box-shadow: 6px 8px 0px 0 rgba(47,182,188,1);
   background-image: none;
   text-shadow: 6px 8px 0 rgba(0,0,0,0);
-  height: auto;
   margin: 60px auto 0 85px;
 }
 
@@ -6748,7 +6747,6 @@
   box-shadow: 6px 8px 0px 0 rgba(255,159,0,1);
   background-image: none;
   text-shadow: 6px 8px 0 rgba(0,0,0,0);
-  height: auto;
   margin: -104px 85px 0 auto;
 }
 
@@ -6769,7 +6767,6 @@
   box-shadow: 6px 8px 0px 0 rgba(185,209,94,1);
   background-image: none;
   text-shadow: 6px 8px 0 rgba(0,0,0,0);
-  height: auto;
   margin: 70px auto 0 85px;
 }
 
@@ -6790,7 +6787,6 @@
   box-shadow: 6px 8px 0px 0 rgba(233,81,96,1);
   background-image: none;
   text-shadow: 6px 8px 0 rgba(0,0,0,0);
-  height: auto;
   margin: -104px 85px 0 auto;
 }
 
@@ -6810,7 +6806,6 @@
   box-shadow: 5px 5px 0px 0 rgba(47,182,188,1);
   background-image: none;
   width: 251px;
-  height: auto;
   margin: 70px auto 0 90px;
 }
 
@@ -6830,7 +6825,6 @@
   box-shadow: 5px 5px 0px 0 rgba(233,81,96,1);
   background-image: none;
   width: 251px;
-  height: auto;
   margin: -45px 90px 0 auto;
 }
 
@@ -6850,7 +6844,6 @@
   box-shadow: 5px 5px 0px 0 rgba(255,159,0,1);
   background-image: none;
   width: 251px;
-  height: auto;
   margin: -45px auto 0 371px;
 }
 
@@ -6870,7 +6863,6 @@
   box-shadow: 5px 5px 0px 0 rgba(185,209,94,1);
   background-image: none;
   width: 251px;
-  height: auto;
   margin: -45px 371px 0 auto;
 }
 
@@ -6912,42 +6904,34 @@
 @media (max-width: 1399px) {
   .u-section-22 .u-group-1 {
     margin-left: 481px;
-    height: auto;
   }
 
   .u-section-22 .u-group-2 {
     margin-left: 481px;
-    height: auto;
   }
 
   .u-section-22 .u-group-3 {
     margin-left: 481px;
-    height: auto;
   }
 
   .u-section-22 .u-group-4 {
     margin-left: 481px;
-    height: auto;
   }
 
   .u-section-22 .u-group-5 {
     margin-left: 763px;
-    height: auto;
   }
 
   .u-section-22 .u-group-6 {
     margin-left: 763px;
-    height: auto;
   }
 
   .u-section-22 .u-group-7 {
     margin-left: 763px;
-    height: auto;
   }
 
   .u-section-22 .u-group-8 {
     margin-left: 763px;
-    height: auto;
   }
 }
 
