@@ -1,0 +1,407 @@
+/* Comentario de prueba */
+
+body {
+    background-color: #ffffff;
+    color: #ffffff;
+    font-size: 1rem;
+    font-family: 'Lucida Console';
+    line-height: 1.6em;
+    margin: 0;
+}
+
+h1 {
+    font-size: 2em;
+    line-height: 1.1em;
+    color: #000000;
+}
+
+p {
+    margin-bottom: 1.1em;
+}
+
+.container {
+    width: 100%;
+    max-width: 100%;
+    margin: 1rem auto;
+}
+
+.header {
+    background: #ffffff;
+    color: #333;
+    padding: 2rem 0;
+    position: relative;
+    left: 0;
+    top: 0;
+    right: 0;
+    width: 100%;
+}
+
+    .header a {
+        color: #333;
+        text-decoration: none;
+    }
+
+
+.logo-nav-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.menu-icon {
+    display: none;
+}
+
+.navigation ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+    .navigation ul li {
+        display: inline-block;
+    }
+
+        .navigation ul li a {
+            display: block;
+            padding: 0.5rem 1rem;
+            transition: all 0.4s ease;
+        }
+
+            .navigation ul li a:hover {
+                background: rgba(35,135,138,0.9);
+                color: #ffffff;
+                border-radius: 30px;
+            }
+
+
+/* Main */
+.Orientacion {
+    position: relative;
+    text-align: left;
+    color: white;
+    padding: 2rem 0;
+}
+
+.textL {
+    position: absolute;
+    text-align: center;
+    margin: 20px;
+    top: 150px;
+    left: 850px;
+    font-size: 65px;
+    transform: translate(-50%, -40%);
+}
+
+.icon1 {
+    position: absolute;
+    top: 40px;
+    left: 45px;
+    float: left;
+}
+
+.icon1t {
+    position: absolute;
+    bottom: 10px;
+    left: 70px;
+    float: left;
+    color: #ffffff;
+    font-size: 20px;
+}
+
+.fondomain {
+    position: relative;
+    left: 340px;
+    height: 797px;
+    width: 797px;
+    top: 50px;
+    left: 360px;
+}
+
+.icon2 {
+    position: absolute;
+    top: 40px;
+    left: 250px;
+    float: left;
+}
+
+.icon2t {
+    text-align: center;
+    position: absolute;
+    bottom: 145px;
+    left: 55px;
+    float: left;
+    color: #ffffff;
+    transform: translate(-1%, -15%);
+    font-size: 15px;
+}
+
+.icon3 {
+    position: absolute;
+    top: 40px;
+    left: 445px;
+}
+
+.icon3t {
+    position: absolute;
+    bottom: 15px;
+    left: 55px;
+    color: #ffffff;
+    font-size: 17px;
+}
+
+.icon4 {
+    position: absolute;
+    top: 40px;
+    left: 640px;
+}
+
+.icon4t {
+    position: absolute;
+    bottom: 12px;
+    left: 55px;
+    color: #ffffff;
+    font-size: 11px;
+    transform: translate(1%, -175%);
+}
+
+.fondomain2 {
+    position: relative;
+    left: 340px;
+    height: 797px;
+    width: 797px;
+    top: 50px;
+    left: 160px;
+    transform: translate(25%, -65%);
+}
+
+.icon5 {
+    position: absolute;
+    top: 40px;
+    left: 50px;
+    float: left;
+}
+
+.icon5t {
+    position: absolute;
+    bottom: 15px;
+    left: 55px;
+    float: left;
+    color: #ffffff;
+    font-size: 17px;
+}
+
+.icon6 {
+    position: absolute;
+    top: 35px;
+    left: 250px;
+}
+
+.icon6t {
+    position: absolute;
+    bottom: 150px;
+    left: 65px;
+    float: left;
+    color: #ffffff;
+    font-size: 15px;
+    text-align: center;
+}
+
+.icon7 {
+    position: absolute;
+    top: 40px;
+    left: 450px;
+    float: left;
+}
+
+.icon7t {
+    position: absolute;
+    bottom: 20px;
+    left: 48.5px;
+    float: left;
+    color: #ffffff;
+    font-size: 15px;
+}
+
+.icon8 {
+    position: absolute;
+    top: 35px;
+    left: 645px;
+    float: left;
+}
+
+.icon8t {
+    text-align: center;
+    position: absolute;
+    bottom: 145px;
+    left: 12.5px;
+    float: left;
+    color: #ffffff;
+    font-size: 13px;
+}
+
+/* Main */
+
+/* footer */
+.footer {
+    background-color: #ffffff;
+    text-align: center;
+    font-size: 0.6rem;
+    left: 0;
+    bottom: 0;
+}
+
+.REDES {
+    margin: 1rem 0;
+}
+
+.linea {
+    position: relative;
+    top: 90px;
+    right: 200px;
+}
+
+.contenedorimagen {
+    position: relative;
+    display: inline-block;
+    text-align: right;
+}
+
+.texto1 {
+    position: absolute;
+    top: 50%;
+    left: 20%;
+    transform: translate(-100%, -470%);
+    font-size: 25px;
+}
+
+.texto2 {
+    position: absolute;
+    top: 50%;
+    left: 20%;
+    transform: translate(-50%, -150%);
+    font-size: 20px;
+}
+
+.texto3 {
+    position: absolute;
+    top: 50%;
+    left: 20%;
+    transform: translate(-74%, 50%);
+    font-size: 20px;
+}
+
+.texto4 {
+    position: absolute;
+    top: 50%;
+    left: 20%;
+    transform: translate(-74%, 240%);
+    font-size: 20px;
+}
+
+.texto5 {
+    position: absolute;
+    top: 50%;
+    left: 20%;
+    transform: translate(340%, -149%);
+    font-size: 20px;
+}
+
+.texto6 {
+    position: absolute;
+    top: 50%;
+    left: 20%;
+    transform: translate(270%, 49%);
+    font-size: 20px;
+}
+
+.texto7 {
+    position: absolute;
+    top: 50%;
+    left: 20%;
+    transform: translate(385%, 240%);
+    font-size: 20px;
+}
+
+.texto8 {
+    position: absolute;
+    top: 50%;
+    left: 20%;
+    transform: translate(324%, -150%);
+    font-size: 20px;
+}
+
+.texto9 {
+    position: absolute;
+    top: 50%;
+    left: 20%;
+    transform: translate(175%, 50%);
+    font-size: 20px;
+}
+
+.texto10 {
+    position: absolute;
+    top: 50%;
+    left: 20%;
+    transform: translate(370%, -150%);
+    font-size: 20px;
+}
+
+.texto11 {
+    position: absolute;
+    top: 50%;
+    left: 20%;
+    transform: translate(320%, 50%);
+    font-size: 20px;
+}
+
+.footer .Copy {
+    background-color: #464646;
+    font-size: 2em;
+    padding: 5px 10px;
+    text-align: center;
+    color: #fff;
+}
+
+    .footer .Copy small {
+        font-size: 0.8em;
+    }
+
+/* footer */
+
+@media only screen and (max-width: 690px) {
+
+    .menu-icon {
+        display: block;
+        cursor: pointer;
+        padding: 0.5rem 1rem;
+    }
+
+    .navigation {
+        width: 100%;
+        margin: 1rem;
+    }
+
+        .navigation ul {
+            display: none;
+        }
+
+            .navigation ul.show {
+                display: block;
+            }
+
+            .navigation ul li {
+                display: block;
+            }
+
+                .navigation ul li a {
+                    display: block;
+                    padding: 0.5rem;
+                    transition: all 0.4s linear;
+                }
+
+                    .navigation ul li a:hover {
+                        color: #3485e9;
+                    }
+}
