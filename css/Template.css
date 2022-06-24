@@ -8755,7 +8755,7 @@
 .u-section-21 .u-image-2 {
   width: 230px;
   height: 251px;
-  margin: -48px auto 0 389px;
+  margin: -48px auto 50px 389px;
 }
 
 .u-section-21 .u-image-3 {
@@ -8787,6 +8787,7 @@
   }
 
   .u-section-21 .u-image-2 {
+    margin-bottom: 50px;
     margin-top: -51px;
     margin-left: 296px;
   }
