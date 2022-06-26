@@ -37680,7 +37680,7 @@ a.u-link.u-text-hover-grey-90:hover {
 
 
 
-
+/* Footer color */
 
  .u-footer-Azul {
   background-image: url("/images/footerA.png");
@@ -37701,6 +37701,8 @@ a.u-link.u-text-hover-grey-90:hover {
   background-image: url("/images/footerV.png");
   background-position: 50% 50%;
 }
+
+/* Footer color */
 
 .u-footer .u-sheet-1 {
   min-height: 265px;
