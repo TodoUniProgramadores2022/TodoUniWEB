@@ -37688,8 +37688,23 @@ a.u-link.u-text-hover-grey-90:hover {
 
 
 
- .u-footer {
-  background-image: url("images/footer.png");
+ .u-footer-Azul {
+  background-image: url("/images/footerA.png");
+  background-position: 50% 50%;
+}
+
+.u-footer-Rojo {
+  background-image: url("/images/footerR.png");
+  background-position: 50% 50%;
+}
+
+.u-footer-Naranja {
+  background-image: url("/images/footerN.png");
+  background-position: 50% 50%;
+}
+
+.u-footer-Verde {
+  background-image: url("/images/footerV.png");
   background-position: 50% 50%;
 }
 
