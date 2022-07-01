@@ -1,0 +1,140 @@
+/* Comentario de prueba */
+
+body {
+    background-color: #ffffff;
+    color: #ffffff;
+    font-size: 1rem;
+    font-family: 'Lucida Console';
+    line-height: 1.6em;
+    margin: 0;
+    
+}
+
+h1{
+    font-size:2em;
+    line-height: 1.1em;
+    color: #000000;
+}
+
+p{
+    margin-bottom: 1.1em;
+}
+
+.container{
+    width: 100%;
+    max-width: 100%;
+    margin: 1rem auto;
+}
+
+.header {
+    background: #ffffff;
+    color: #464646;
+    padding: 2rem 0;
+    position: relative;
+    left: 0;
+    top: 0;
+    right: 0;
+    width: 100%;
+}
+
+.header a{
+    color: #333;
+    text-decoration:none;
+}
+
+
+.logo-nav-container{
+    display: flex;
+    justify-content: space-between;
+    align-items:center;
+    flex-wrap:wrap;
+    
+}
+
+.menu-icon{
+    display:none;
+}
+
+.navigation ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    color: #464646;
+}
+
+    .navigation ul li{
+        display: inline-block;
+    }
+
+        .navigation ul li a{
+            display:block;
+            padding:0.5rem 1rem;
+            transition: all 0.4s ease;
+        }
+
+            .navigation ul li a:hover {
+                background: rgba(35,135,138,0.9);
+                color: #ffffff;
+                border-radius:30px;
+            }
+
+
+/* Main */
+.fondomain{
+    position:relative;
+    left:340px;
+    height:797px;
+    width:797px;
+    top:50px;
+    left:360px;
+}
+
+
+
+.Orientacion{
+    position:relative;
+    text-align:left;
+    color:white;
+    padding:2rem 0;
+}
+    .text {
+        position:absolute;
+        text-align:center;
+        margin:20px;
+        top:150px;
+        left: 850px;
+        font-size:65px;
+        transform: translate(-50%, -50%);
+    }
+
+
+    .zorro {
+        position: relative;
+        left: 200px;
+        top: 100px;
+        float:left;
+       
+    }
+
+        .botones {
+            position:relative;
+            margin-top:350px;
+            margin-left:150px;
+            
+        }
+            
+            .burbuja {
+                position:absolute;
+                right:400px;
+                top:610px;
+            }
+                .bt{
+                    position:absolute;
+                    font-size:35px;
+                    color:#333;
+                    font-weight:bolder;
+                    bottom:30px;
+                    left:475px;
+                }
+
+/* Main */

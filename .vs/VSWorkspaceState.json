@@ -2,9 +2,11 @@
   "ExpandedNodes": [
     "",
     "\\css",
-    "\\images",
+    "\\ori_empresarial",
+    "\\ori_laboral",
+    "\\ori_vocacional",
     "\\templates"
   ],
-  "SelectedNode": "\\Laboralp19.html",
+  "SelectedNode": "\\ori_laboral\\Laboral.html",
   "PreviewInSolutionExplorer": false
 }
