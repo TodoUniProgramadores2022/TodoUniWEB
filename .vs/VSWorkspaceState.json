@@ -1,8 +1,12 @@
 {
   "ExpandedNodes": [
     "",
-    "\\vocacional"
+    "\\css",
+    "\\ori_empresarial",
+    "\\ori_laboral",
+    "\\ori_vocacional",
+    "\\templates"
   ],
-  "SelectedNode": "\\vocacional\\stylesv2.css",
+  "SelectedNode": "\\ori_laboral\\Laboral.html",
   "PreviewInSolutionExplorer": false
 }
